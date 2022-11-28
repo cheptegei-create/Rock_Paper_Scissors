@@ -13,7 +13,7 @@ To create something fun with JavaScript. I build this website for the user to ha
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Just click the following link to play the game https://cheptegei-create.github.io/threeMini/
 
 ## Usage
 
