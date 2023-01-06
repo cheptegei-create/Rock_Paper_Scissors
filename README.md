@@ -13,7 +13,7 @@ To create something fun with JavaScript. I build this website for the user to ha
 
 ## Installation
 
-Just click the following link to play the game https://cheptegei-create.github.io/threeMini/
+Just click the following link to play the game https://cheptegei-create.github.io/Rock_Paper_Scissors/
 
 ## Usage
 
